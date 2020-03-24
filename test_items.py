@@ -1,7 +1,7 @@
 from time import sleep
 
 
-link = 'http://selenium1py.pythonanywhere.com/catalogue/coders-at-work_207/'
+link = 'https://esia.gosuslugi.ru/'
 
 def test_add_item_to_basket(browser):
     browser.get(link)
